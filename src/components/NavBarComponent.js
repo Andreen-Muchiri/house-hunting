@@ -13,7 +13,7 @@ function NavBarComponent() {
        <div className="NavBar">
    <Navbar bg="dark" variant={"dark"} expand="lg">
      <Container fluid>
-       {/* <Navbar.Brand href="#">School Transport Booking</Navbar.Brand> */}
+       <Navbar.Brand href="#"><h1>Rental_Homez</h1></Navbar.Brand>
        <Navbar.Toggle aria-controls="navbarScroll" />
        <Navbar.Collapse id="navbarScroll">
          <Nav

@@ -1,7 +1,7 @@
 export const property = [
     {
       id: 1,
-      cover: "../../img/p-1.png",
+      cover: "./img/p-1.png",
       name: "Red Carpet Real Estate",
       location: "Kilimani, Nairobi",
       category: "For Rent",
@@ -28,7 +28,7 @@ export const property = [
     },
     {
       id: 4,
-      cover: "../img/p-4.png",
+      cover: "./img/p-4.png",
       name: "Herringbone Realty",
       location: "Tom Mboya , Kisumu",
       category: "For Rent",

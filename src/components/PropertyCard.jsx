@@ -5,11 +5,11 @@ function  PropertyCard () {
   return (
     <>
       <div className='content grid5 mtop'>
-        {property.map((items, index) => (
+        {property.map((property, index) => (
           <div className='box' key={index}>
-            <img src={items.cover} alt='' />
-            <h4>{items.name}</h4>
-            <label>{items.total}</label>
+            <img src={property.cover} alt='' />
+            <h4>{property.name}</h4>
+            <label>{property.total}</label>
           </div>
         ))}
       </div>
