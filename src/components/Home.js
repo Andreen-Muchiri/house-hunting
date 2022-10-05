@@ -2,10 +2,11 @@ import React from "react"
 import Heading from "./header/Heading"
 import "./home.css"
 
-function Hero ()  {
+
+function Home()  {
   return (
     <>
-      <section className='hero'>
+      <section className='home'>
         <div className='container'>
           <Heading title='Search For Your Next Home ' subtitle='Find new & featured property located in your local city.' />
 
@@ -35,5 +36,5 @@ function Hero ()  {
   )
 }
 
-export default Hero
+export default Home;
 
