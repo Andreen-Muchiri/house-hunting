@@ -6,11 +6,11 @@ function  PropertyCard () {
     <>
       <div className='content grid3 mtop'>
         {property.map((val, index) => {
-          const { cover, category, location, name, price, type } = val
+          const {category, location, name, price, type } = val
           return (
             <div className='box shadow' key={index}>
               <div className='img'>
-                <img src={cover} alt='' />
+                <img src={require('./img/p-1.png').default} alt='' />
               </div>
               <div className='text'>
                 <div className='category flex'>
