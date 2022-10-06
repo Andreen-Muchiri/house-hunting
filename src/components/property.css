@@ -1,13 +1,21 @@
-.property .box {
-    box-shadow: 0 0 20px 0 rgb(112 121 138 / 18%);
-    border-radius: 6px;
-    text-align: center;
+.property .text {
     padding: 30px;
-    cursor: pointer;
   }
-  .property img {
-    width: 65px;
-    height: 65px;
-    margin: auto;
+  .property .category span {
+    padding: 4px 15px;
+    border-radius: 2px;
+    font-weight: 600;
+    font-size: 13px;
+    display: inline-block;
   }
-  
+  .property .category i {
+    font-size: 20px;
+    color: #bec7d8;
+  }
+  .property p {
+    color: white;
+  }
+  .property .button {
+    border-top: 1px solid #e4e8f3;
+    padding: 10px 30px;
+  }
