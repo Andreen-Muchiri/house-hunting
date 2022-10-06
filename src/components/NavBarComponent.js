@@ -21,11 +21,21 @@ function NavBarComponent() {
            style={{ maxHeight: '100px' }}
            navbarScroll
          >
+          <ul>
+            <li>
            <Nav.Link as={Link} to= {"/home"}>Home</Nav.Link>
+           </li>
+            <li>
            <Nav.Link as={Link} to= {"/about"}>About</Nav.Link>
+           </li>
+            <li>
            <Nav.Link as={Link} to= {"/property"}>Property</Nav.Link>
+          </li>
+            <li>
            <Nav.Link as={Link} to= {"/contact"}>Contact</Nav.Link>
-          
+           </li>
+           
+          </ul>
          
          </Nav>
        
