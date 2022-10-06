@@ -119,7 +119,7 @@ Name- Andreen Muchiri -andymuchiri@gmail.com
 
 Project-link: https://github.com/Andreen-Muchiri/house-hunting.git
 
-Live link:https://andreen.netlify.app/
+
 
 
 **ACKNOWLEDGEMENT.**
