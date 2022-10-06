@@ -53,7 +53,7 @@ PREREQUISITES.
 
 Below are the necesities to keep note of while using this web application.
 
-   npm start.
+       npm start.
 
 1.Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
@@ -65,7 +65,7 @@ You may also see any lint errors in the console.
 2.Clone the repo;
      https://github.com/Andreen-Muchiri/house-hunting.git.
 
-2.Install npm packages.
+.Install npm packages.
 
         npm install.
 USAGE.
