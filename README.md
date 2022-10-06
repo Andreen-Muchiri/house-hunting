@@ -1,11 +1,11 @@
-# house-hunting
-Project name:Rental_Homez.
+# House-Hunting
+Project name: **Rental_Homez.**
 
-Author's name:Andreen Muchiri.
+Author's name:**Andreen Muchiri.**
 
-Rental_Homez.
+**Rental_Homez.**
 
-This is an online house-hunting site that allows clients  who are looking forward to relocating or even owning a home, to get access to information about houses near their locations and those which fit their needs.It frees one off the stress that comes along with searching for a home.
+This is an online house-hunting site that allows clients  who are looking forward to relocating or even owning a home, to get access to information about houses near their locations and those that fit their needs.It frees one off the stress that comes along with searching for a home.
 
 **Table of Contents.**
 
@@ -29,11 +29,13 @@ This is an online house-hunting site that allows clients  who are looking forwar
 
 10.Acknowledgments.
 
-ABOUT THE PROJECT.
 
-Rental_Homez  is an internet based Rental search site  that aims to ensure that house-hunting experience has been made easier by providing an extensive range of information on homes available for renting.
+**ABOUT THE PROJECT.**
 
-BUILT WITH.
+Rental_Homez  is an internet based Rentals search site  that aims to ensure that house-hunting experience has been made easier by providing an extensive range of information on homes available for renting.
+
+
+**BUILT WITH.**
 
 1.CSS
 
@@ -43,13 +45,14 @@ BUILT WITH.
 
 4.Netlify
 
-GETTING STARTED.
+
+**GETTING STARTED.**
 
 To start of you are required to follow the live link provided in the repository description (Link provided),then go ahead and type in
 the search section.
 
 
-PREREQUISITES.
+**PREREQUISITES.**
 
 Below are the necesities to keep note of while using this web application.
 
@@ -68,7 +71,9 @@ You may also see any lint errors in the console.
 .Install npm packages.
 
         npm install.
-USAGE.
+        
+        
+**USAGE.**
 
 1.First click on the web link provided,
 
@@ -76,7 +81,8 @@ USAGE.
 
 3.Click on the search button to get the results of your search.
 
-ROADMAP.
+
+**ROADMAP.**
 
 1.Home .
 
@@ -86,7 +92,8 @@ ROADMAP.
 
 4.Contact .
 
-CONTRIBUTIONS.
+
+**CONTRIBUTIONS.**
 
 Feel free to make any contributions to this project.Your contributions will be recieved with much appreciation. For any suggestions that would improve this project,kindly fork the repo and create a pull request.
 
@@ -100,17 +107,22 @@ Feel free to make any contributions to this project.Your contributions will be r
 
 5.Open a Pull Request.
 
-LICENSE.
+
+**LICENSE.**
 
 Distributed under the MIT License.See LICENSE.txt for more information.
 
-CONTACT ME.
+
+**CONTACT ME.**
 
 Name- Andreen Muchiri -andymuchiri@gmail.com
 
 Project-link: https://github.com/Andreen-Muchiri/house-hunting.git
 
-ACKNOWLEDGEMENT.
+Live link:https://andreen.netlify.app/
+
+
+**ACKNOWLEDGEMENT.**
 
 To start of is lots of gratitude to my Moringa School Technical Mentor- Beatrice Wambui -who has been very supportive through this whole process.She has guided me through everything diligently and ensured that I get to deliver my very best.
 
