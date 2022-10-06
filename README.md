@@ -63,11 +63,11 @@ You may also see any lint errors in the console.
 
 
 2.Clone the repo;
-     https://github.com/Andreen-Muchiri/house-hunting.git
+     https://github.com/Andreen-Muchiri/house-hunting.git.
 
 2.Install npm packages.
 
-        npm install
+        npm install.
 USAGE.
 
 1.First click on the web link provided,
@@ -108,7 +108,7 @@ CONTACT ME.
 
 Name- Andreen Muchiri -andymuchiri@gmail.com
 
-Project-link: https://andreen-muchiri.github.io/Phase-1-Project/
+Project-link: https://github.com/Andreen-Muchiri/house-hunting.git
 
 ACKNOWLEDGEMENT.
 
